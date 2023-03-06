@@ -1,3 +1,3 @@
 # Table of contents
 
-* [깃북 가이드](README.md)
+* [백엔드 생존 코스](README.md)

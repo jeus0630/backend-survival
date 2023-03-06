@@ -1,7 +1,6 @@
 ---
-description: 깃북 테스트
+description: 백엔드 생존 코스 깃북
 ---
 
-# 깃북 가이드
+# 백엔드 생존 코스
 
-Git Book을 적극 활용해보자.
