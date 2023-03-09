@@ -6,7 +6,7 @@ description: 03-HTTP Server
 
 ### Java ServerSocket
 
-HTTP Client 와 다르게 Server 는 Listen을 하고고 있다가 들어오는 Request에 응답을 해주기 때문에 ServerSocket을 사용한다. Socket을 상속한 게 아니라 완전히 구별된다.
+HTTP Client 와 다르게 Server 는 Listen을 하고 있다가 들어오는 Request에 응답을 해주기 때문에 ServerSocket을 사용한다. Socket을 상속한 게 아니라 완전히 구별된다.
 
 ### Blocking vs Non-Blocking
 
